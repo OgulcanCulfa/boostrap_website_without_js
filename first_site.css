@@ -1,0 +1,237 @@
+nav {
+    background-color: rgb(44, 62, 80);
+}
+
+#Ana_baslik {
+    width: 100px;
+    height: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    color: #ffffff;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.container-fluid {
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 650px;
+    background-color: #1abc9c;
+}
+
+div .smiling_boy img {
+    margin-top: 35px;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+
+div .bootstrap_header p {
+    margin-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.divider-custom {
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    width: 250px;
+    height: 50px;
+    color: #ffffff;
+    display: flex;
+}
+
+.divider-custom .divider-custom-line {
+    height: 4px;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.divider-custom .divider-custom-icon {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    align-items: center;
+}
+
+.titles p {
+    margin-top: 40px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.portfolio {
+    text-align: center;
+    margin-top: 150px;
+    background-color: #ffffff;
+}
+
+.portfolio h2 {
+    margin-top: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 46px;
+    font-weight: bolder;
+}
+
+.row {
+    text-align: center;
+}
+
+.about {
+    background-color: rgb(26, 188, 156);
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+.about h2 {
+    padding-top: 40px;
+    margin-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 44px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.row p {
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.download {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.download .btn {
+    border-width: 2px;
+}
+
+.contact_me {
+    margin-top: 50px;
+}
+
+.contact_me h2 {
+    font-weight: bolder;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 44px;
+}
+
+#sonuncu_div {
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    width: 250px;
+    height: 50px;
+    color: black;
+    display: flex;
+}
+
+#sonuncu_cizgi1 {
+    height: 4px;
+    width: 100%;
+    background-color: black;
+    color: black;
+}
+
+#sonuncu_cizgi2 {
+    height: 4px;
+    width: 100%;
+    background-color: black;
+    color: black;
+}
+
+.sonuncu_ikon {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    align-items: center;
+}
+
+.formal {
+    margin-top: 100px;
+}
+
+#sign_in_button {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+#form_kutusu {
+    margin-top: 80px;
+    width: 600px;
+}
+
+.border_adjusting {
+    outline: none;
+    height: 60px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+#sendMessageButton {
+    left: 15px;
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+.border_adjusting:focus {
+    outline: none;
+    height: 60px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: none;
+    outline: none;
+}
+
+footer {
+    margin-top: 150px;
+    background-color: #2c3e50;
+}
+
+.ayak_dizayn {
+    padding-top: 40px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ayak_dizayn svg {
+    margin: 5px;
+    text-align: center;
+    align-items: center;
+    width: 20px;
+    height: 20px
+}
+
+.ayak_dizayn .btn {
+    margin-top: 5px;
+    border-radius: 50%;
+    border-width: 2px;
+}
